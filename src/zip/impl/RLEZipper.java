@@ -1,4 +1,6 @@
-package zip;
+package zip.impl;
+
+import zip.Zipper;
 
 public class RLEZipper implements Zipper {
 	@Override

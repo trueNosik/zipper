@@ -1,4 +1,6 @@
-package zip;
+package zip.impl;
+
+import zip.UnZipper;
 
 public class RLEUnZipper implements UnZipper {
 	@Override

@@ -1,5 +1,8 @@
 package zip;
 
+import zip.impl.RLEUnZipper;
+import zip.impl.RLEZipper;
+
 public class Test {
 	
 	public static void main(String[] args) {
